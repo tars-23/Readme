@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sippakorn Kanhareuk</h1>
 <h3 align="center">A future theorem guy from Thailand</h3>
-<p align="center" alt="Coding cat"  src ="https://media1.tenor.com/m/ogsH7Ailje8AAAAd/cat-funny-cat.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tars-23&label=Profile%20views&color=0e75b6&style=flat" alt="tars-23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tars-23" alt="tars-23" /></a> </p>
+<img align ="right" alt="Coding cat" width = "400" src ="https://media1.tenor.com/m/ogsH7Ailje8AAAAd/cat-funny-cat.gif">
 
 - 🌱 I’m currently learning **java script ,react ,c++ ,python, chatGPT**
 
