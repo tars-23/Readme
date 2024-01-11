@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tars-23&show_icons=true&locale=en&layout=compact" alt="tars-23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tars-23&show_icons=true&locale=en" alt="tars-23" /></p>
+<img align ="right" alt="Coding cat" width = "400" src ="https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif">
